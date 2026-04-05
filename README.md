@@ -1,18 +1,55 @@
-# Recipe App
+# 🌟 Recipe App
 
-A modern and interactive web application that allows users to search for recipes from around the world. Users can view detailed ingredients, cooking instructions, and enjoy a clean, responsive design that works on all devices.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
-## Features
+**Recipe App** is a web application built using **HTML, CSS, and JavaScript**, designed to help users **discover and explore recipes** with a clean and user-friendly interface.
 
-- **Search Recipes:** Type any dish or ingredient and get matching recipes instantly.
-- **Recipe Details:** View full ingredients and step-by-step cooking instructions.
-- **Responsive Design:** Works perfectly on mobile, tablet, and desktop screens.
-- **Interactive UI:** Clean layout with pop-up recipe details and hover effects.
-- **Error Handling:** Shows messages for no results or API errors.
+💡 This project focuses on **dynamic content handling, search functionality, and interactive UI**, creating a smooth experience for browsing recipes.
 
-## Technologies Used
+---
 
-- **HTML5** – For structure and content
-- **CSS3** – Modern styling, grid layout, and responsive design
-- **JavaScript (ES6)** – Fetch API, dynamic DOM manipulation, event handling
-- **[TheMealDB API](https://www.themealdb.com/api.php)** – Provides recipes data.
+## 🌐 Live Demo
+
+[🍲 View Recipe App Live](https://recipe-app-beta-flax.vercel.app/)
+
+---
+
+## 🌈 Tech Skills
+
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
+
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
+
+---
+
+## 💻 About Recipe App
+
+- Search and explore **different recipes easily**  
+- Displays recipe details in a **structured and clean layout**  
+- Designed with a **responsive and user-friendly interface**  
+- Provides smooth and interactive **user experience**  
+- Demonstrates **dynamic data handling and UI rendering**  
+
+---
+
+## 🌱 Learning & Growth
+
+- 🔍 Implementing **search-based functionality**  
+- 💻 Strengthening **JavaScript logic and DOM manipulation**  
+- 🌐 Improving **responsive and structured UI design**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**
